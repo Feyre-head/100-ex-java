@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static java.lang.Math.pow;
-
 public class atv4 {
     public static void main(String[] args) {
         //Escreva um programa que calcule a média geométrica entre
