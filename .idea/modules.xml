@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FormulasMatematicas/FormulasMatematicas.iml" filepath="$PROJECT_DIR$/FormulasMatematicas/FormulasMatematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Matriz/Matriz.iml" filepath="$PROJECT_DIR$/../Matriz/Matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Vetores/Vetores.iml" filepath="$PROJECT_DIR$/../Vetores/Vetores.iml" />
     </modules>
   </component>
